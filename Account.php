@@ -108,7 +108,7 @@ $totalRows_User = mysql_num_rows($User);
             <li><a href="ForgotPassword.php">Forgot Password</a></li>
         </ul>
       <ul>
-	      <li><a href="#">Start App!</a></li>
+	      <li><a href="LevelPage.php">Start App!</a></li>
 	      <div id="NavBar2">
 	        <nav>
 	          <ul>
@@ -133,8 +133,7 @@ $totalRows_User = mysql_num_rows($User);
 	  <h2>Your Links:</h2>
 	  <h6>&nbsp;</h6>
 	  <h6>- <a href="Update.php">Update Account Details</a><br>
-	    - Show Previous Answers
-	  </h6>
+      - Show Previous Answers	  </h6>
 	</div>
     <div id="ContentRight">
       <table width="500" border="0">
